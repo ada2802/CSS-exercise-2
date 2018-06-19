@@ -1,0 +1,51 @@
+/*www.cssfontstack.com */
+
+p {
+	font-family:Arial ;
+}
+
+/*font-size*/
+
+body{
+	font-size: 10px;
+}
+
+h1{
+	font-size: 48px;
+	font-family: 'Tangerine', serif;
+	text-shadow: 4px 4px 4px #aaa;
+}
+
+p{
+	font-size: 1.0em;
+}
+
+span{
+	font-size: 5.0em;
+	text-decoration: line-through;
+}
+
+/*font-weight*/
+p{
+	font-weight: bold;
+}
+
+/*line-height*/
+p{
+	line-height: 2;
+}
+
+/*text-align*/
+h1 {
+	text-align: center;
+}
+
+p {
+	text-align: left;
+}
+
+/*text-decoration*/
+
+p {
+	text-decoration: underline;
+}
